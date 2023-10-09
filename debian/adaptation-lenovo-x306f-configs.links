@@ -1,0 +1,2 @@
+/usr/lib/adaptation-lenovo-x306f/sources.list.d/community-lenovo-x306f.list /etc/apt/sources.list.d/community-lenovo-x306f.list
+/usr/lib/adaptation-lenovo-x306f/trusted.gpg.d/community-lenovo-x306f.gpg /etc/apt/trusted.gpg.d/community-lenovo-x306f.gpg
